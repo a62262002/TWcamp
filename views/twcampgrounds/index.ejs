@@ -1,24 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
+<% layout('layouts/boilerplate') %>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TW Campgrounds</title>
-</head>
 
-<body>
   <h1>All Campgrounds</h1>
-  <div><a href="/twcampgrounds/new">Add Campground</a></div>
-  <ul>
+  <div>
+    <a href="/twcampgrounds/new">Add Campground</a>
+  </div>
+  <div class="row">
     <% for (let campground of campgrounds) {%>
-      <li><a href="/twcampgrounds/<%= campground._id %> ">
-          <%= campground.title %>
-        </a></li>
+      <div class="col-4">
+        <div class="card mb-4">
+
+          <div class="">
+            <img class="card-img-top img-fluid" style="height:250px" src="<%= campground.image %> " alt="">
+            <div class="card-body">
+              <h5 class="card-title">
+                <%= campground.title %>
+              </h5>
+              <p class="card-text">
+                <%= campground.description %>
+              </p>
+              <p class="card-text">
+                <small class="text-muted">
+                  <%= campground.location %>
+                </small>
+              </p>
+              <a class="btn btn-primary" href="/twcampgrounds/<%= campground._id %> ">
+                View</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <% } %>
-  </ul>
-
-</body>
-
-</html>
+  </div>
