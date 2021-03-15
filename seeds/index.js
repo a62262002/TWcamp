@@ -24,6 +24,7 @@ const seedDB = async () => {
 		const random24 = Math.floor(Math.random() * 24);
 		const price = Math.floor(Math.random() * 1000) + 500;
 		const camp = new campground({
+			author: '604c7a4630d45fd09a6dff52',
 			location: `${cities[random24].town}, ${cities[random24].city}`,
 			title: `${sample(descriptors)} ${sample(places)}`,
 			image: 'https://source.unsplash.com/collection/483251',
