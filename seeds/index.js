@@ -31,6 +31,10 @@ const seedDB = async () => {
 			description:
 				'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt minima quae excepturi minus ab ut omnis! Ipsa quasi adipisci laboriosam, dolor laborum, sequi, eligendi voluptas voluptatem veritatis cupiditate optio quia.',
 			price,
+			geometry: {
+				type: 'Point',
+				coordinates: [ 120.680598, 24.14168566 ]
+			},
 			images: [
 				{
 					url:
@@ -39,8 +43,8 @@ const seedDB = async () => {
 				},
 				{
 					url:
-						'https://res.cloudinary.com/a62262002/image/upload/v1615801608/TWcamp/camp2_1__compress_wpckxv.jpg',
-					filename: 'TWcamp/camp2_1__compress_wpckxv'
+						'https://res.cloudinary.com/a62262002/image/upload/v1615857243/TWcamp/v7xtcjbiqupribslnz0g.jpg',
+					filename: '/TWcamp/v7xtcjbiqupribslnz0g'
 				}
 			]
 		});
