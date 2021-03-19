@@ -23,7 +23,12 @@ const userRoutes = require('./routes/users');
 const campgroundRoutes = require('./routes/campgrounds');
 const reviewRoutes = require('./routes/reviews');
 
-mongoose.connect('mongodb://localhost:27017/tw-camp', {
+const MongoDBStore = require('connect-mongo')(session);
+
+// const dbUrl = 'mongodb://localhost:27017/tw-camp';
+const dbUrl = process.env.DB_URL;
+
+mongoose.connect(dbUrl, {
 	useNewUrlParser: true,
 	useCreateIndex: true,
 	useUnifiedTopology: true,
@@ -53,9 +58,23 @@ app.use(
 	})
 );
 
+const secret = process.env.SECRET;
+// const secret = 'thisshouldbeabettersecret!';
+
+const store = new MongoDBStore({
+	url: dbUrl,
+	secret,
+	touchAfter: 24 * 60 * 60
+});
+
+store.on('error', function(e) {
+	console.log('SEESION ON STORE ERROR', e);
+});
+
 const sessionConfig = {
+	store,
 	name: 'session',
-	secret: 'thisshouldbeabettersecret!',
+	secret,
 	resave: false,
 	saveUninitialized: true,
 	cookie: {

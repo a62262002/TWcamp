@@ -20,12 +20,12 @@ const sample = (array) => array[Math.floor(Math.random() * array.length)];
 
 const seedDB = async () => {
 	await campground.deleteMany({});
-	for (let i = 0; i < 24; i++) {
-		const random24 = Math.floor(Math.random() * 24);
+	for (let i = 0; i < 200; i++) {
+		const random200 = Math.floor(Math.random() * 200);
 		const price = Math.floor(Math.random() * 1000) + 500;
 		const camp = new campground({
 			author: '604c7a4630d45fd09a6dff52',
-			location: `${cities[random24].town}, ${cities[random24].city}`,
+			location: `${cities[random200].town}, ${cities[random200].city}`,
 			title: `${sample(descriptors)} ${sample(places)}`,
 			// image: 'https://source.unsplash.com/collection/483251',
 			description:
@@ -33,7 +33,7 @@ const seedDB = async () => {
 			price,
 			geometry: {
 				type: 'Point',
-				coordinates: [ cities[random24].longitude, cities[random24].latitude ]
+				coordinates: [ cities[random200].longitude, cities[random200].latitude ]
 			},
 			images: [
 				{
