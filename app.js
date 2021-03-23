@@ -25,8 +25,8 @@ const reviewRoutes = require('./routes/reviews');
 
 const MongoDBStore = require('connect-mongo')(session);
 
-// const dbUrl = 'mongodb://localhost:27017/tw-camp';
-const dbUrl = process.env.DB_URL;
+const dbUrl = 'mongodb://localhost:27017/tw-camp';
+// const dbUrl = process.env.DB_URL;
 
 mongoose.connect(dbUrl, {
 	useNewUrlParser: true,
@@ -58,8 +58,8 @@ app.use(
 	})
 );
 
-const secret = process.env.SECRET;
-// const secret = 'thisshouldbeabettersecret!';
+// const secret = process.env.SECRET;
+const secret = 'thisshouldbeabettersecret!';
 
 const store = new MongoDBStore({
 	url: dbUrl,
@@ -165,8 +165,8 @@ app.use((err, req, res, next) => {
 	res.status(statusCode).render('error', { err });
 });
 
-const port = process.env.PORT;
-// const port = 3000;
+// const port = process.env.PORT;
+const port = 3000;
 
 app.listen(port, () => {
 	console.log(`Serving on port ${port}`);
