@@ -1903,795 +1903,696 @@ module.exports = [
 		city: 'Nanhai'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u5ca1\u5c71\u5340',
+		town: 'Gangshan',
 		_x0033_碼郵遞區號: '820',
-		中心點經度: '120.2978906',
-		中心點緯度: '22.80505886',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.2978906,
+		latitude: 22.80505886,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u8def\u7af9\u5340',
+		town: 'Luzhu',
 		_x0033_碼郵遞區號: '821',
-		中心點經度: '120.2659871',
-		中心點緯度: '22.85724171',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.2659871,
+		latitude: 22.85724171,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u963f\u84ee\u5340',
+		town: 'Alian',
 		_x0033_碼郵遞區號: '822',
-		中心點經度: '120.3210967',
-		中心點緯度: '22.87022883',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3210967,
+		latitude: 22.87022883,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u7530\u5bee\u5340',
+		town: 'Tianliao',
 		_x0033_碼郵遞區號: '823',
-		中心點經度: '120.3959842',
-		中心點緯度: '22.86394307',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3959842,
+		latitude: 22.86394307,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u71d5\u5de2\u5340',
+		town: 'Yanchao',
 		_x0033_碼郵遞區號: '824',
-		中心點經度: '120.370799',
-		中心點緯度: '22.78769626',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.370799,
+		latitude: 22.78769626,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6a4b\u982d\u5340',
+		town: 'Qiaotou',
 		_x0033_碼郵遞區號: '825',
-		中心點經度: '120.3006534',
-		中心點緯度: '22.75252398',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3006534,
+		latitude: 22.75252398,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6893\u5b98\u5340',
+		town: 'Ziguan',
 		_x0033_碼郵遞區號: '826',
-		中心點經度: '120.2593989',
-		中心點緯度: '22.748209',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.2593989,
+		latitude: 22.748209,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u5f4c\u9640\u5340',
+		town: 'Mituo',
 		_x0033_碼郵遞區號: '827',
-		中心點經度: '120.2394571',
-		中心點緯度: '22.77944528',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.2394571,
+		latitude: 22.77944528,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6c38\u5b89\u5340',
+		town: `Yong'an`,
 		_x0033_碼郵遞區號: '828',
-		中心點經度: '120.228051',
-		中心點緯度: '22.82224585',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.228051,
+		latitude: 22.82224585,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6e56\u5167\u5340',
+		town: 'Hunei',
 		_x0033_碼郵遞區號: '829',
-		中心點經度: '120.2259375',
-		中心點緯度: '22.89324952',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.2259375,
+		latitude: 22.89324952,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u9cf3\u5c71\u5340',
+		town: 'Fengshan',
 		_x0033_碼郵遞區號: '830',
-		中心點經度: '120.3554359',
-		中心點緯度: '22.61379251',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3554359,
+		latitude: 22.61379251,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u5927\u5bee\u5340',
+		town: 'Daliao',
 		_x0033_碼郵遞區號: '831',
-		中心點經度: '120.4111468',
-		中心點緯度: '22.59283576',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4111468,
+		latitude: 22.59283576,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6797\u5712\u5340',
+		town: 'Linyuan',
 		_x0033_碼郵遞區號: '832',
-		中心點經度: '120.399052',
-		中心點緯度: '22.50813743',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.399052,
+		latitude: 22.50813743,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u9ce5\u677e\u5340',
+		town: 'Niaosong',
 		_x0033_碼郵遞區號: '833',
-		中心點經度: '120.3727783',
-		中心點緯度: '22.66249302',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3727783,
+		latitude: 22.66249302,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u5927\u6a39\u5340',
+		town: 'Dashu',
 		_x0033_碼郵遞區號: '840',
-		中心點經度: '120.425407',
-		中心點緯度: '22.71100364',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.425407,
+		latitude: 22.71100364,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u65d7\u5c71\u5340',
+		town: 'Qishan',
 		_x0033_碼郵遞區號: '842',
-		中心點經度: '120.4754554',
-		中心點緯度: '22.86497033',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4754554,
+		latitude: 22.86497033,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u7f8e\u6fc3\u5340',
+		town: 'Meinong',
 		_x0033_碼郵遞區號: '843',
-		中心點經度: '120.5634635',
-		中心點緯度: '22.90005529',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5634635,
+		latitude: 22.90005529,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u516d\u9f9c\u5340',
+		town: 'Liugui',
 		_x0033_碼郵遞區號: '844',
-		中心點經度: '120.6585635',
-		中心點緯度: '23.01195426',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6585635,
+		latitude: 23.01195426,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u5167\u9580\u5340',
+		town: 'Neimen',
 		_x0033_碼郵遞區號: '845',
-		中心點經度: '120.4719272',
-		中心點緯度: '22.95668817',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4719272,
+		latitude: 22.95668817,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6749\u6797\u5340',
+		town: 'Shanlin',
 		_x0033_碼郵遞區號: '846',
-		中心點經度: '120.5621971',
-		中心點緯度: '22.99694681',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5621971,
+		latitude: 22.99694681,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u7532\u4ed9\u5340',
+		town: 'Jiaxian',
 		_x0033_碼郵遞區號: '847',
-		中心點經度: '120.6232895',
-		中心點緯度: '23.11654995',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6232895,
+		latitude: 23.11654995,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u6843\u6e90\u5340',
+		town: 'Taoyuan',
 		_x0033_碼郵遞區號: '848',
-		中心點經度: '120.8523383',
-		中心點緯度: '23.2249459',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8523383,
+		latitude: 23.2249459,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u90a3\u746a\u590f\u5340',
+		town: 'Namaxia',
 		_x0033_碼郵遞區號: '849',
-		中心點經度: '120.741944',
-		中心點緯度: '23.275008',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.741944,
+		latitude: 23.275008,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u8302\u6797\u5340',
+		town: 'Maolin',
 		_x0033_碼郵遞區號: '851',
-		中心點經度: '120.752384',
-		中心點緯度: '22.91993256',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.752384,
+		latitude: 22.91993256,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u9ad8\u96c4\u5e02\u8304\u8423\u5340',
+		town: 'Qieding',
 		_x0033_碼郵遞區號: '852',
-		中心點經度: '120.1980519',
-		中心點緯度: '22.88241399',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.1980519,
+		latitude: 22.88241399,
+		city: 'Kaohsiung'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u99ac\u516c\u5e02',
+		town: 'Magong',
 		_x0033_碼郵遞區號: '880',
-		中心點經度: '119.59234',
-		中心點緯度: '23.55534',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.59234,
+		latitude: 23.55534,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u897f\u5dbc\u9109',
+		town: 'Xiyu',
 		_x0033_碼郵遞區號: '881',
-		中心點經度: '119.50783',
-		中心點緯度: '23.59975',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.50783,
+		latitude: 23.59975,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u671b\u5b89\u9109',
+		town: `Wang'an`,
 		_x0033_碼郵遞區號: '882',
-		中心點經度: '119.50406',
-		中心點緯度: '23.36904',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.50406,
+		latitude: 23.36904,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u4e03\u7f8e\u9109',
+		town: 'Qimei',
 		_x0033_碼郵遞區號: '883',
-		中心點經度: '119.43393',
-		中心點緯度: '23.20108',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.43393,
+		latitude: 23.20108,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u767d\u6c99\u9109',
+		town: 'Baisha',
 		_x0033_碼郵遞區號: '884',
-		中心點經度: '119.59251',
-		中心點緯度: '23.64178',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.59251,
+		latitude: 23.64178,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u6f8e\u6e56\u7e23\u6e56\u897f\u9109',
+		town: 'Huxi',
 		_x0033_碼郵遞區號: '885',
-		中心點經度: '119.64462',
-		中心點緯度: '23.57364',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.64462,
+		latitude: 23.57364,
+		city: 'Penghu'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u91d1\u6c99\u93ae',
+		town: 'Jinsha',
 		_x0033_碼郵遞區號: '890',
-		中心點經度: '118.40841',
-		中心點緯度: '24.45865',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 118.40841,
+		latitude: 24.45865,
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u91d1\u6e56\u93ae',
+		town: 'Jinhu',
 		_x0033_碼郵遞區號: '891',
-		中心點經度: '118.40373',
-		中心點緯度: '24.41496',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 118.40373,
+		latitude: 24.41496,
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u91d1\u5be7\u9109',
+		town: 'Jinning',
 		_x0033_碼郵遞區號: '892',
-		中心點經度: '118.31705',
-		中心點緯度: '24.42482',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 118.31705,
+		latitude: 24.42482,
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u91d1\u57ce\u93ae',
+		town: 'Jincheng',
 		_x0033_碼郵遞區號: '893',
-		中心點經度: '118.30128',
-		中心點緯度: '24.38402',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 118.30128,
+		latitude: 24.38402,
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u70c8\u5dbc\u9109',
+		town: 'Lieyu',
 		_x0033_碼郵遞區號: '894',
-		中心點經度: '118.22789',
-		中心點緯度: '24.40166',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 118.22789,
+		latitude: 24.40166,
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u91d1\u9580\u7e23\u70cf\u5775\u9109',
+		town: 'Wuqiu',
 		_x0033_碼郵遞區號: '896',
-		中心點經度: '119.452738',
-		中心點緯度: '24.992338',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 119.452738,
+		latitude: '24.992338',
+		city: 'Kinmen'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u5c4f\u6771\u5e02',
+		town: 'Pingtung',
 		_x0033_碼郵遞區號: '900',
-		中心點經度: '120.4799948',
-		中心點緯度: '22.6647375',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4799948,
+		latitude: 22.6647375,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u4e09\u5730\u9580\u9109',
+		town: 'Sandimen',
 		_x0033_碼郵遞區號: '901',
-		中心點經度: '120.6865219',
-		中心點緯度: '22.79786847',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6865219,
+		latitude: 22.79786847,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u9727\u81fa\u9109',
+		town: 'Wutai',
 		_x0033_碼郵遞區號: '902',
-		中心點經度: '120.8008099',
-		中心點緯度: '22.75990478',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8008099,
+		latitude: 22.75990478,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u746a\u5bb6\u9109',
+		town: 'Majia',
 		_x0033_碼郵遞區號: '903',
-		中心點經度: '120.6799239',
-		中心點緯度: '22.67107764',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6799239,
+		latitude: 22.67107764,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u4e5d\u5982\u9109',
+		town: 'Jiuru',
 		_x0033_碼郵遞區號: '904',
-		中心點經度: '120.4845044',
-		中心點緯度: '22.7316677',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4845044,
+		latitude: 22.7316677,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u91cc\u6e2f\u9109',
+		town: 'Ligang',
 		_x0033_碼郵遞區號: '905',
-		中心點經度: '120.5061276',
-		中心點緯度: '22.79854831',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5061276,
+		latitude: 22.79854831,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u9ad8\u6a39\u9109',
+		town: 'Gaoshu',
 		_x0033_碼郵遞區號: '906',
-		中心點經度: '120.6017678',
-		中心點緯度: '22.80992022',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6017678,
+		latitude: 22.80992022,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u9e7d\u57d4\u9109',
+		town: 'Yanpu',
 		_x0033_碼郵遞區號: '907',
-		中心點經度: '120.5693941',
-		中心點緯度: '22.74253636',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5693941,
+		latitude: 22.74253636,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u9577\u6cbb\u9109',
+		town: 'Changzhi',
 		_x0033_碼郵遞區號: '908',
-		中心點經度: '120.555979',
-		中心點緯度: '22.69454952',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.555979,
+		latitude: 22.69454952,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u9e9f\u6d1b\u9109',
+		town: 'Linluo',
 		_x0033_碼郵遞區號: '909',
-		中心點經度: '120.5299693',
-		中心點緯度: '22.64876367',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5299693,
+		latitude: 22.64876367,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u7af9\u7530\u9109',
+		town: 'Zhutian',
 		_x0033_碼郵遞區號: '911',
-		中心點經度: '120.5266379',
-		中心點緯度: '22.58855636',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5266379,
+		latitude: 22.58855636,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u5167\u57d4\u9109',
+		town: 'Neipu',
 		_x0033_碼郵遞區號: '912',
-		中心點經度: '120.5888222',
-		中心點緯度: '22.65116933',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5888222,
+		latitude: 22.65116933,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u842c\u4e39\u9109',
+		town: 'Wandan',
 		_x0033_碼郵遞區號: '913',
-		中心點經度: '120.4766188',
-		中心點緯度: '22.58849547',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4766188,
+		latitude: 22.58849547,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6f6e\u5dde\u93ae',
+		town: 'Chaozhou',
 		_x0033_碼郵遞區號: '920',
-		中心點經度: '120.5568063',
-		中心點緯度: '22.53642947',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5568063,
+		latitude: 22.53642947,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6cf0\u6b66\u9109',
+		town: 'Taiwu',
 		_x0033_碼郵遞區號: '921',
-		中心點經度: '120.6917929',
-		中心點緯度: '22.60408477',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6917929,
+		latitude: 22.60408477,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u4f86\u7fa9\u9109',
+		town: 'Laiyi',
 		_x0033_碼郵遞區號: '922',
-		中心點經度: '120.6857232',
-		中心點緯度: '22.50157206',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6857232,
+		latitude: 22.50157206,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u842c\u5dd2\u9109',
+		town: 'Wanluan',
 		_x0033_碼郵遞區號: '923',
-		中心點經度: '120.601817',
-		中心點緯度: '22.58233459',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.601817,
+		latitude: 22.58233459,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u5d01\u9802\u9109',
+		town: 'Kanding',
 		_x0033_碼郵遞區號: '924',
-		中心點經度: '120.5006598',
-		中心點緯度: '22.51528151',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5006598,
+		latitude: 22.51528151,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u65b0\u57e4\u9109',
+		town: 'Xinpi',
 		_x0033_碼郵遞區號: '925',
-		中心點經度: '120.5846257',
-		中心點緯度: '22.48676279',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5846257,
+		latitude: 22.48676279,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u5357\u5dde\u9109',
+		town: 'Nanzhou',
 		_x0033_碼郵遞區號: '926',
-		中心點經度: '120.5180561',
-		中心點緯度: '22.47980704',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5180561,
+		latitude: 22.47980704,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6797\u908a\u9109',
+		town: 'Linbian',
 		_x0033_碼郵遞區號: '927',
-		中心點經度: '120.5125095',
-		中心點緯度: '22.44142101',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5125095,
+		latitude: 22.44142101,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6771\u6e2f\u93ae',
+		town: 'Donggang',
 		_x0033_碼郵遞區號: '928',
-		中心點經度: '120.4751333',
-		中心點緯度: '22.46265635',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4751333,
+		latitude: 22.46265635,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u7409\u7403\u9109',
+		town: 'Liuqiu',
 		_x0033_碼郵遞區號: '929',
-		中心點經度: '120.3710466',
-		中心點緯度: '22.34000278',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.3710466,
+		latitude: 22.34000278,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u4f73\u51ac\u9109',
+		town: 'Jiadong',
 		_x0033_碼郵遞區號: '931',
-		中心點經度: '120.5476124',
-		中心點緯度: '22.42980624',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5476124,
+		latitude: 22.42980624,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u65b0\u5712\u9109',
+		town: 'Xinyuan',
 		_x0033_碼郵遞區號: '932',
-		中心點經度: '120.4501429',
-		中心點緯度: '22.5171903',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.4501429,
+		latitude: 22.5171903,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u678b\u5bee\u9109',
+		town: 'Fangliao',
 		_x0033_碼郵遞區號: '940',
-		中心點經度: '120.5975845',
-		中心點緯度: '22.40334199',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.5975845,
+		latitude: 22.40334199,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u678b\u5c71\u9109',
+		town: 'Fangshan',
 		_x0033_碼郵遞區號: '941',
-		中心點經度: '120.6567673',
-		中心點緯度: '22.27086962',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6567673,
+		latitude: 22.27086962,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6625\u65e5\u9109',
+		town: 'Chunri',
 		_x0033_碼郵遞區號: '942',
-		中心點經度: '120.6975799',
-		中心點緯度: '22.40399754',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.6975799,
+		latitude: 22.40399754,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u7345\u5b50\u9109',
+		town: 'Shizi',
 		_x0033_碼郵遞區號: '943',
-		中心點經度: '120.7356454',
-		中心點緯度: '22.26084921',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.7356454,
+		latitude: 22.26084921,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u8eca\u57ce\u9109',
+		town: 'Checheng',
 		_x0033_碼郵遞區號: '944',
-		中心點經度: '120.7432633',
-		中心點緯度: '22.07915617',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.7432633,
+		latitude: 22.07915617,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u7261\u4e39\u9109',
+		town: 'Mudan',
 		_x0033_碼郵遞區號: '945',
-		中心點經度: '120.8173609',
-		中心點緯度: '22.15552859',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8173609,
+		latitude: 22.15552859,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6046\u6625\u93ae',
+		town: 'Hengchun',
 		_x0033_碼郵遞區號: '946',
-		中心點經度: '120.7632537',
-		中心點緯度: '21.98531645',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.7632537,
+		latitude: 21.98531645,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u5c4f\u6771\u7e23\u6eff\u5dde\u9109',
+		town: 'Manzhou',
 		_x0033_碼郵遞區號: '947',
-		中心點經度: '120.8435675',
-		中心點緯度: '22.04930015',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8435675,
+		latitude: 22.04930015,
+		city: 'Pingtung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u81fa\u6771\u5e02',
+		town: 'Taitung',
 		_x0033_碼郵遞區號: '950',
-		中心點經度: '121.1103647',
-		中心點緯度: '22.75165721',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.1103647,
+		latitude: 22.75165721,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u7da0\u5cf6\u9109',
+		town: 'Ludao',
 		_x0033_碼郵遞區號: '951',
-		中心點經度: '121.4901951',
-		中心點緯度: '22.66017537',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4901951,
+		latitude: 22.66017537,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u862d\u5dbc\u9109',
+		town: 'Lanyu',
 		_x0033_碼郵遞區號: '952',
-		中心點經度: '121.5508328',
-		中心點緯度: '22.04616835',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.5508328,
+		latitude: 22.04616835,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u5ef6\u5e73\u9109',
+		town: 'Yanping',
 		_x0033_碼郵遞區號: '953',
-		中心點經度: '120.9831902',
-		中心點緯度: '22.90343174',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.9831902,
+		latitude: 22.90343174,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u5351\u5357\u9109',
+		town: 'Beinan',
 		_x0033_碼郵遞區號: '954',
-		中心點經度: '121.0015521',
-		中心點緯度: '22.76494453',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.0015521,
+		latitude: 22.76494453,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u9e7f\u91ce\u9109',
+		town: 'Luye',
 		_x0033_碼郵遞區號: '955',
-		中心點經度: '121.1560376',
-		中心點緯度: '22.95125666',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.1560376,
+		latitude: 22.95125666,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u95dc\u5c71\u93ae',
+		town: 'Guanshan',
 		_x0033_碼郵遞區號: '956',
-		中心點經度: '121.1766197',
-		中心點緯度: '23.03780684',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.1766197,
+		latitude: 23.03780684,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u6d77\u7aef\u9109',
+		town: 'Haiduan',
 		_x0033_碼郵遞區號: '957',
-		中心點經度: '121.0175672',
-		中心點緯度: '23.11478528',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.0175672,
+		latitude: 23.11478528,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u6c60\u4e0a\u9109',
+		town: 'Chishang',
 		_x0033_碼郵遞區號: '958',
-		中心點經度: '121.2184501',
-		中心點緯度: '23.09248714',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.2184501,
+		latitude: 23.09248714,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u6771\u6cb3\u9109',
+		town: 'Donghe',
 		_x0033_碼郵遞區號: '959',
-		中心點經度: '121.2517917',
-		中心點緯度: '22.98006921',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.2517917,
+		latitude: 22.98006921,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u6210\u529f\u93ae',
+		town: 'Chenggong',
 		_x0033_碼郵遞區號: '961',
-		中心點經度: '121.3537983',
-		中心點緯度: '23.12663716',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.3537983,
+		latitude: 23.12663716,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u9577\u6ff1\u9109',
+		town: 'Changbin',
 		_x0033_碼郵遞區號: '962',
-		中心點經度: '121.4261725',
-		中心點緯度: '23.33476899',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4261725,
+		latitude: 23.33476899,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u592a\u9ebb\u91cc\u9109',
+		town: 'Taimali',
 		_x0033_碼郵遞區號: '963',
-		中心點經度: '120.9797643',
-		中心點緯度: '22.59098082',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.9797643,
+		latitude: 22.59098082,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u91d1\u5cf0\u9109',
+		town: 'Jinfeng',
 		_x0033_碼郵遞區號: '964',
-		中心點經度: '120.8570384',
-		中心點緯度: '22.58161687',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8570384,
+		latitude: 22.58161687,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u5927\u6b66\u9109',
+		town: 'Dawu',
 		_x0033_碼郵遞區號: '965',
-		中心點經度: '120.8991703',
-		中心點緯度: '22.38359522',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8991703,
+		latitude: 22.38359522,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u81fa\u6771\u7e23\u9054\u4ec1\u9109',
+		town: 'Daren',
 		_x0033_碼郵遞區號: '966',
-		中心點經度: '120.8355239',
-		中心點緯度: '22.38430718',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 120.8355239,
+		latitude: 22.38430718,
+		city: 'Taitung'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u82b1\u84ee\u5e02',
+		town: 'Hualien',
 		_x0033_碼郵遞區號: '970',
-		中心點經度: '121.6071463',
-		中心點緯度: '23.99700271',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.6071463,
+		latitude: 23.99700271,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u65b0\u57ce\u9109',
+		town: 'Xincheng',
 		_x0033_碼郵遞區號: '971',
-		中心點經度: '121.6137969',
-		中心點緯度: '24.05579952',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.6137969,
+		latitude: 24.05579952,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u79c0\u6797\u9109',
+		town: 'Xiulin',
 		_x0033_碼郵遞區號: '972',
-		中心點經度: '121.4807194',
-		中心點緯度: '24.12374414',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4807194,
+		latitude: 24.12374414,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u5409\u5b89\u9109',
+		town: `Ji'an`,
 		_x0033_碼郵遞區號: '973',
-		中心點經度: '121.5646738',
-		中心點緯度: '23.95546585',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.5646738,
+		latitude: 23.95546585,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u58fd\u8c50\u9109',
+		town: 'Shoufeng',
 		_x0033_碼郵遞區號: '974',
-		中心點經度: '121.5341569',
-		中心點緯度: '23.84459714',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.5341569,
+		latitude: 23.84459714,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u9cf3\u6797\u93ae',
+		town: 'Fenglin',
 		_x0033_碼郵遞區號: '975',
-		中心點經度: '121.4698848',
-		中心點緯度: '23.74324462',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4698848,
+		latitude: 23.74324462,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u5149\u5fa9\u9109',
+		town: 'Guangfu',
 		_x0033_碼郵遞區號: '976',
-		中心點經度: '121.4351231',
-		中心點緯度: '23.64658742',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4351231,
+		latitude: 23.64658742,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u8c50\u6ff1\u9109',
+		town: 'Fengbin',
 		_x0033_碼郵遞區號: '977',
-		中心點經度: '121.4942331',
-		中心點緯度: '23.58519428',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4942331,
+		latitude: 23.58519428,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u745e\u7a57\u9109',
+		town: 'Ruisui',
 		_x0033_碼郵遞區號: '978',
-		中心點經度: '121.4073472',
-		中心點緯度: '23.5156124',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.4073472,
+		latitude: 23.5156124,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u842c\u69ae\u9109',
+		town: 'Wanrong',
 		_x0033_碼郵遞區號: '979',
-		中心點經度: '121.3189531',
-		中心點緯度: '23.72772629',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.3189531,
+		latitude: 23.72772629,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u7389\u91cc\u93ae',
+		town: 'Yuli',
 		_x0033_碼郵遞區號: '981',
-		中心點經度: '121.3604476',
-		中心點緯度: '23.37143588',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.3604476,
+		latitude: 23.37143588,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u5353\u6eaa\u9109',
+		town: 'Zhuoxi',
 		_x0033_碼郵遞區號: '982',
-		中心點經度: '121.1804222',
-		中心點緯度: '23.39062875',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.1804222,
+		latitude: 23.39062875,
+		city: 'Hualien'
 	},
 	{
-		行政區名: '\u82b1\u84ee\u7e23\u5bcc\u91cc\u9109',
+		town: 'Fuli',
 		_x0033_碼郵遞區號: '983',
-		中心點經度: '121.2980494',
-		中心點緯度: '23.19672092',
-		TGOS_URL:
-			'http://tgos.nat.gov.tw/tgos/Web/MetaData/TGOS_MetaData_View.aspx?MID=9C715A5CD330360D355AE105F908B29E&SHOW_BACK_BUTTON=false'
+		longitude: 121.2980494,
+		latitude: 23.19672092,
+		city: 'Hualien'
 	}
 ];
